@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "omniroute": {
+      "options": {
+         "baseURL": "http://localhost:20128/v1"
+  }
+}
+  }
+}
